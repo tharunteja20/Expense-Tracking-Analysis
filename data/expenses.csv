@@ -1,1 +1,11 @@
-
+expense_id,expense_date,amount,category,description,payment_method,necessary,location
+1,2026-09-01,60,Food,Breakfast,Cash,Yes,Home
+2,2026-09-01,30,Transport,Bus,Cash,Yes,City
+3,2026-09-01,250,Shopping,T-shirt,UPI,No,Mall
+4,2026-09-02,120,Food,Lunch,UPI,Yes,College
+5,2026-09-02,50,Transport,Auto,Cash,Yes,City
+6,2026-09-03,500,Entertainment,Movie,UPI,No,Theatre
+7,2026-09-03,80,Food,Dinner,Cash,Yes,Restaurant
+8,2026-09-04,200,Education,Books,UPI,Yes,Bookstore
+9,2026-09-04,100,Food,Snacks,UPI,No,College
+10,2026-09-05,40,Transport,Bus,Cash,Yes,City
