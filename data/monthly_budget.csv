@@ -1,1 +1,6 @@
-
+budget_id,month,planned_amount,category
+1,2026-09,5000,Food
+2,2026-09,2000,Transport
+3,2026-09,3000,Education
+4,2026-09,2000,Shopping
+5,2026-09,1500,Entertainment
